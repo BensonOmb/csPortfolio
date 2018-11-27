@@ -6,6 +6,8 @@
 * <i>Lightning </i> [here](https://bensonomb.github.io/lightning2/index.html)
   * The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes.
 * <i> Dice </i>[here](https://bensonomb.github.io/dice3/)
+  * I was completely and utterly lost on Dice. I had no idea where to start and I even struggled on the minor code. To me, the major concept code like the scanner class is very difficult to wrap my brain around, but In Dice the smaller code (for loops and such) was 
+  a challenge by itself.
 * <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
 * <i> Starfield </i> [here](https://bensonomb.github.io/starfield5/)
 * <i> St.Thomas </i>
