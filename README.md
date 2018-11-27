@@ -7,9 +7,12 @@
  </p>
   </details>
   
-* <b>Lightning </b>
+* <details><summary><b>Lightning </b></summary>
+ <p>
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes. I employed my tactic of using random numbers in my code and seeing what happens, then once something cool comes out I go back and see why that is. It comes up with some pretty funky stuff.</i>
+ </p>
+  </details>
   
 * <b> Dice </b>
   * [here](https://bensonomb.github.io/dice3/)
