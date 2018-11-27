@@ -1,6 +1,6 @@
 # csPortfolio
 
-* <b> MyWebPage </b>
+<details><summary><b> MyWebPage </b></summary>
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.</i>
 * <b>Lightning </b>
@@ -19,6 +19,8 @@
 * <b> St.Thomas </b>
   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
   * <i>The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.</i>
+
+
 
 The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
 
