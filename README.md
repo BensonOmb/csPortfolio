@@ -16,7 +16,7 @@
  </p>
   </details>
   
-* <details><summary><b> Dice </b></summary>
+<details><summary><b> Dice </b></summary>
  <p>
   
   * [here](https://bensonomb.github.io/dice3/)
@@ -25,7 +25,7 @@
  </p>
  </details>
   
-* <deatails><summary><b> Chemotaxis </b></summary>
+ <deatails><summary><b> Chemotaxis </b></summary>
  <p>
   
   * [here](https://bensonomb.github.io/chemotaxis4/)
@@ -33,14 +33,14 @@
  </p>
  </details>
   
-* <details><summary><b> Starfield </b></summary>
+<details><summary><b> Starfield </b></summary>
  <p>
   * [here](https://bensonomb.github.io/starfield5/)
   *<i> I was outstanded by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.</i>
  </p>
  </details>
   
-* <details><summary><b> St.Thomas </b></summary>
+ <details><summary><b> St.Thomas </b></summary>
  <p>
   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
   * <i>The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.</i>
