@@ -1,16 +1,21 @@
 # csPortfolio
 
-* <i> MyWebPage </i>[here](https://bensonomb.github.io/lightning2/index.html)
+* <i> MyWebPage </i>
+  * [here](https://bensonomb.github.io/lightning2/index.html)
   * The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first
    I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.
-* <i>Lightning </i> [here](https://bensonomb.github.io/lightning2/index.html)
+* <i>Lightning </i>
+  * [here](https://bensonomb.github.io/lightning2/index.html)
   * The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes.
-* <i> Dice </i>[here](https://bensonomb.github.io/dice3/)
+* <i> Dice </i>
+  *[here](https://bensonomb.github.io/dice3/)
   * I was completely and utterly lost on Dice. I had no idea where to start and I even struggled on the minor code. To me, the major concept code like the scanner class is very difficult to wrap my brain around, but In Dice the smaller code (for loops and such) was 
   a challenge by itself.
-* <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
+* <i> Chemotaxis </i> 
+  *[here](https://bensonomb.github.io/chemotaxis4/)
   * Chemotaxis was really cool because it had alot of potential to create some fun games. It reminded me of the final project from AP Comp Sci and I wish we had more time to explore the possibilities and really explore what chemotaxis could be. I found the real life application in biology to be cool as well, and I can imagine this code being used for studies.
-* <i> Starfield </i> [here](https://bensonomb.github.io/starfield5/)
+* <i> Starfield </i> 
+  *[here](https://bensonomb.github.io/starfield5/)
   * I was outstanded by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.
 * <i> St.Thomas </i>
   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
