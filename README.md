@@ -9,7 +9,9 @@
   * I was completely and utterly lost on Dice. I had no idea where to start and I even struggled on the minor code. To me, the major concept code like the scanner class is very difficult to wrap my brain around, but In Dice the smaller code (for loops and such) was 
   a challenge by itself.
 * <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
+  * Chemotaxis was really cool because it had alot of potential to create some fun games. It reminded me of the final project from AP Comp Sci and I wish we had more time to explore the possibilities and really explore what chemotaxis could be. I found the real life application in biology to be cool as well, and I can imagine this code being used for studies.
 * <i> Starfield </i> [here](https://bensonomb.github.io/starfield5/)
+  * I was outstanded by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.
 * <i> St.Thomas </i>
   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
   * The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.
