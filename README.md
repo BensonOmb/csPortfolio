@@ -1,8 +1,11 @@
 # csPortfolio
 
 <details><summary><b> MyWebPage </b></summary>
+ <p>
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.</i>
+ </p>
+  </details>
 * <b>Lightning </b>
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes. I employed my tactic of using random numbers in my code and seeing what happens, then once something cool comes out I go back and see why that is. It comes up with some pretty funky stuff.</i>
