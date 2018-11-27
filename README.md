@@ -111,4 +111,39 @@
  </p>
  </details>
  
+ <br/><br/>
+ 
+ <i> The process of this code was I first copied and pasted the code from my NormalParticle, because I wanted to use the same code for it to move around the screen. The first phase of this code's development was changing the NormalParticle's code to make it an oddball particle. However, after a day with no success, I decided to try something new. In this second phase I decided to not have the particle move around, but instead have it stay in one place and have the borders of the ball fluxuate like a living organism. I did this by keeping the speed and angle the same from normal, but I didn't move the coordinates of the Oddball. I also created fifty of them all different colors of gray. The result was a funky bit of code which looks lie a moving organism. I defenitly used some colabrative help when dealing with the movement of the ball itself, and how the angles should be dealt with. I took notes directly from Dr.R's presentaion and used it word for word in my code so that the ball would move. However, the oddball staying still and changing colors was all me.
+     '''Java
+    class OddballParticle implements Particle {
+    double x;
+    double y;
+    double speed;
+    double angle=(Math.PI*2);
+    int random;
+  
+    int clr;
+    OddballParticle(int x, int y) {
+      this.x=x;
+      this.y=y;
+      clr=((int)(Math.random()*245)+10);
+    }
+
+
+
+    public void move() {
+      speed=Math.random()*5;
+      angle+=.025;
+
+      x+=Math.cos(angle)*speed;
+      y+=Math.sin(angle)*speed;
+     
+    }
+    public void show() {
+      noStroke();
+      fill(clr,clr,clr);
+      ellipse(width/2,height/2, (int)((.5)*x), (int)((.5)*y)); </i>
+    }
+       }
+ 
  
