@@ -1,7 +1,7 @@
 
 <h1><b>Owen Benson Portfolio</b></h1>
 
-![alt text]("https://www.brainyquote.com/photos_tr/en/h/hjacksonbrownjr/382774/hjacksonbrownjr1-2x.jpg")
+![alt text](https://www.brainyquote.com/photos_tr/en/h/hjacksonbrownjr/382774/hjacksonbrownjr1-2x.jpg )
 <details><summary><b> MyWebPage </b></summary>
  <p>
   
