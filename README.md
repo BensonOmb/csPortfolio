@@ -1,11 +1,11 @@
 # csPortfolio
 
-* <b> MyWebPage </b>[here](https://bensonomb.github.io/lightning2/index.html)
-* Lightning [here](https://bensonomb.github.io/lightning2/index.html)
-* Dice [here](https://bensonomb.github.io/dice3/)
-* Chemotaxis [here](https://bensonomb.github.io/chemotaxis4/)
-* Starfield [here](https://bensonomb.github.io/starfield5/)
-* St.Thomas
+* <i> MyWebPage </i>[here](https://bensonomb.github.io/lightning2/index.html)
+* <i>Lightning </i> [here](https://bensonomb.github.io/lightning2/index.html)
+* <i> Dice </i>[here](https://bensonomb.github.io/dice3/)
+* <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
+* <i> Starfield </i> [here](https://bensonomb.github.io/starfield5/)
+* <i> St.Thomas </i>
   * St.Thomas [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
 
 The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
