@@ -50,7 +50,7 @@
 
 
 
-  The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
+  <br/><br/>The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
 
 '''java{
 
