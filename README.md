@@ -86,11 +86,14 @@
   }
 }
 </p>
+</details>
 
 <details><summary><b> 2 sources of Pride </b></summary>
  <p>
   <i> * I am proud of how I have slowly understood more and more of the grand concepts of Code, which have always been a struggle for me. When I think of the classes from last year, I can finally identify what I was doing and what the code that was given to us was doing. I feel like my grand understanding of code has increased.
+   
       * I am also proud of how much I know about exceptions. I really threw alot of time to learning about what try catch methods do and theyre honeslty one of the only concepts I understand from this year so far. </i>
-
+ </p>
+ </details>
 
  
