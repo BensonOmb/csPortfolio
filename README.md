@@ -2,6 +2,7 @@
 
 <details><summary><b> MyWebPage </b></summary>
  <p>
+  
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.</i>
  </p>
@@ -9,27 +10,42 @@
   
  <details><summary><b>Lightning </b></summary>
  <p>
+  
   * [here](https://bensonomb.github.io/lightning2/index.html)
   * <i>The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes. I employed my tactic of using random numbers in my code and seeing what happens, then once something cool comes out I go back and see why that is. It comes up with some pretty funky stuff.</i>
  </p>
   </details>
   
-* <b> Dice </b>
+* <details><summary><b> Dice </b></summary>
+ <p>
+  
   * [here](https://bensonomb.github.io/dice3/)
   * <i>I was completely and utterly lost on Dice. I had no idea where to start and I even struggled on the minor code. To me, the major concept code like the scanner class is very difficult to wrap my brain around, but In Dice the smaller code (for loops and such) was 
   a challenge by itself. I employed the help of Dr.R, my classmates and even the internet to figuire out why my dice were so wonky, but it was never fixed.</i>
+ </p>
+ </details>
   
-* <b> Chemotaxis </b> 
+* <deatails><summary><b> Chemotaxis </b></summary>
+ <p>
+  
   * [here](https://bensonomb.github.io/chemotaxis4/)
   * <i>Chemotaxis was really cool because it had alot of potential to create some fun games. It reminded me of the final project from AP Comp Sci and I wish we had more time to explore the possibilities and really explore what chemotaxis could be. I found the real life application in biology to be cool as well, and I can imagine this code being used for studies.</i>
+ </p>
+ </details>
   
-* <b> Starfield </b> 
+* <details><summary><b> Starfield </b></summary>
+ <p>
   * [here](https://bensonomb.github.io/starfield5/)
   *<i> I was outstanded by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.</i>
+ </p>
+ </details>
   
-* <b> St.Thomas </b>
+* <details><summary><b> St.Thomas </b></summary>
+ <p>
   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
   * <i>The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.</i>
+ </p>
+ </details>
 
 
 
