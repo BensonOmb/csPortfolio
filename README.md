@@ -5,7 +5,7 @@
 * Dice [here](https://bensonomb.github.io/dice3/)
 * Chemotaxis [here](https://bensonomb.github.io/chemotaxis4/)
 * Starfield [here](https://bensonomb.github.io/starfield5/)
-* St.Thomas [here](https://docs.google.com/presentation/d/1iZrKE3-hbXkK3rF7mpYMKIr_VQY1mwyH16PAfJbMW9s/edit#slide=id.p)
+* St.Thomas [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
 
 ```Java
 class OddballParticle implements Particle {
