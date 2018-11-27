@@ -25,7 +25,7 @@
  </p>
  </details>
   
- <deatails><summary><b> Chemotaxis </b></summary>
+ <details><summary><b> Chemotaxis </b></summary>
  <p>
   
   * [here](https://bensonomb.github.io/chemotaxis4/)
@@ -35,6 +35,7 @@
   
 <details><summary><b> Starfield </b></summary>
  <p>
+  
   * [here](https://bensonomb.github.io/starfield5/)
   *<i> I was outstanded by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.</i>
  </p>
@@ -49,7 +50,7 @@
 
 
 
-The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
+  The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
 
 '''java{
 
