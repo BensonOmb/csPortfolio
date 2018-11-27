@@ -4,6 +4,7 @@
   * The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first
    I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.
 * <i>Lightning </i> [here](https://bensonomb.github.io/lightning2/index.html)
+  * The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes.
 * <i> Dice </i>[here](https://bensonomb.github.io/dice3/)
 * <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
 * <i> Starfield </i> [here](https://bensonomb.github.io/starfield5/)
