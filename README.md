@@ -43,8 +43,8 @@
   
  <details><summary><b> St.Thomas </b></summary>
  <p>
-  *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
-  * <i>The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.</i>
+   *  [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
+   * <i>The college presentation was really weird for me, because I did it on my backup college and thus didnt really care about it. I was also caught off-guard presenting day one and I really wish I could have done more research. I didnt focus on the Computer Science part of St.Thomas because if I go there I will go engineering. But I should have done a better job.</i>
  </p>
  </details>
 
