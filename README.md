@@ -98,10 +98,15 @@
     for(int j=0; j<size;j++){
        outlet=println(let);}
        }
-       
-       <br/>
+      <br/>
       I am proud of this snippet of code because last year I had no idea what nested for loops were used for, but when I saw tha one of the labs needed this code for some reasn it all clicked and I wrote this immedietly.
  </p>
  </details>
 
+<detail><summary><b> Hurdle! </b></summary>
+ <p>
+ * <i>I felt crunched by the time periods for this trimester, especially the seven Scanner labs that were due in two weeks. It took me an entire week to do 2 and those were supposed to be easy. I feel like everyone in this clase is naturally gifted or have a passion for Computer Science and I am being left behind. I made up for this by coming in after school alot and working overtime on my code</i>
+ </p>
+ </details>
+ 
  
