@@ -7,6 +7,7 @@
 * Starfield [here](https://bensonomb.github.io/starfield5/)
 * St.Thomas [here](https://docs.google.com/presentation/d/e/2PACX-1vSP2GNKvvXJNqUpuG9-HYwJcOF9SgRrhvP0IVNJMrkWlJFsjdZhfSBbly79so4iVE1JYtAqScrAQ7IM/pub?start=false&loop=false&delayms=3000)
 
+The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
 ```Java
 class OddballParticle implements Particle {
   double x;
