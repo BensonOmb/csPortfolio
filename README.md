@@ -92,6 +92,13 @@
 <details><summary><b> 2 sources of Pride </b></summary>
  <p>
   <i> I am proud of how I have slowly understood more and more of the grand concepts of Code, which have always been a struggle for me. When I think of the classes from last year, I can finally identify what I was doing and what the code that was given to us was doing. I feel like my grand understanding of code has increased. I am also proud of how much I know about exceptions. I really threw alot of time to learning about what try catch methods do and theyre honeslty one of the only concepts I understand from this year so far. </i>
+  
+  <br/> <br/>
+  for(int i=0; i<size;i++){
+    for(int j=0; j<size;j++){
+       outlet=println(let);}
+       }
+      I am proud of this snippet of code because last year I had no idea what nested for loops were used for, but when I saw tha one of the labs needed this code for some reasn it all clicked and I wrote this immedietly.
  </p>
  </details>
 
