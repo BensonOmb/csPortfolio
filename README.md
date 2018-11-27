@@ -1,6 +1,8 @@
 # csPortfolio
 
 * <i> MyWebPage </i>[here](https://bensonomb.github.io/lightning2/index.html)
+ * The Webpage was a good intro to this school year and I found it interesting how we learned about what actual webistes use. At first
+   I thought I was actually good at this subject, but when other kids made their websites I realized how little I know about everything.
 * <i>Lightning </i> [here](https://bensonomb.github.io/lightning2/index.html)
 * <i> Dice </i>[here](https://bensonomb.github.io/dice3/)
 * <i> Chemotaxis </i> [here](https://bensonomb.github.io/chemotaxis4/)
