@@ -114,8 +114,11 @@
  <br/><br/>
  
  <i> The process of this code was I first copied and pasted the code from my NormalParticle, because I wanted to use the same code for it to move around the screen. The first phase of this code's development was changing the NormalParticle's code to make it an oddball particle. However, after a day with no success, I decided to try something new. In this second phase I decided to not have the particle move around, but instead have it stay in one place and have the borders of the ball fluxuate like a living organism. I did this by keeping the speed and angle the same from normal, but I didn't move the coordinates of the Oddball. I also created fifty of them all different colors of gray. The result was a funky bit of code which looks lie a moving organism. I defenitly used some colabrative help when dealing with the movement of the ball itself, and how the angles should be dealt with. I took notes directly from Dr.R's presentaion and used it word for word in my code so that the ball would move. However, the oddball staying still and changing colors was all me.
-     '''Java
-    class OddballParticle implements Particle {
+ At the bottom of the code, you can see my ellipse has a permanent height and width of (height/2, width/2). This keeps the ellipses in the center of the screen, while the second half of my code ((int(.5)*anglex),(int(.5)*angley) changes the borders of the ellipse.
+    
+    '''Java
+ 
+     class OddballParticle implements Particle {
     double x;
     double y;
     double speed;
