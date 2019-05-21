@@ -118,9 +118,7 @@
     
     '''Java
  
-     class MarkovChain implements Markov {
-  List <String> wordList;
-  Map<String, ArrayList<String>> myMap;
+     class MarkovChain implements Markov { List <String> wordList;  Map<String, ArrayList<String>> myMap;
 
   public MarkovChain() {
     wordList=new ArrayList<String>();
@@ -167,4 +165,4 @@
     return ""+wordList;
   }
 }
- 
+  
