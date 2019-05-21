@@ -113,7 +113,7 @@
  
  <br/><br/>
  
- <i> This </i>
+ <i> Markov Chain was very difficult for me, as I could barely understand the concept behind our project. I had to get alot of help from Chris Bartz and Aashish. </i>
     
     '''Java
  
