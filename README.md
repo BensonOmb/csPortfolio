@@ -113,56 +113,30 @@
  
  <br/><br/>
  
- <i> The process of this code was I first copied and pasted the code from my NormalParticle, because I wanted to use the same code for it to move around the screen. The first phase of this code's development was changing the NormalParticle's code to make it an oddball particle. However, after a day with no success, I decided to try something new. In this second phase I decided to not have the particle move around, but instead have it stay in one place and have the borders of the ball fluxuate like a living organism. I did this by keeping the speed and angle the same from normal, but I didn't move the coordinates of the Oddball. I also created fifty of them all different colors of gray. The result was a funky bit of code which looks lie a moving organism. I defenitly used some colabrative help when dealing with the movement of the ball itself, and how the angles should be dealt with. I took notes directly from Dr.R's presentaion and used it word for word in my code so that the ball would move. However, the oddball staying still and changing colors was all me.
- At the bottom of the code, you can see my ellipse has a permanent height and width of (height/2, width/2). This keeps the ellipses in the center of the screen, while the second half of my code ((int(.5)*anglex),(int(.5)*angley) changes the borders of the ellipse.
+ <i> This </i>
     
     '''Java
  
-     class MarkovChain implements Markov { List <String> wordList;  Map<String, ArrayList<String>> myMap;
-
-  public MarkovChain() {
+     class MarkovChain implements Markov { List <String> wordList;  Map<String, ArrayList<String>> myMap;  public MarkovChain() {
     wordList=new ArrayList<String>();
-    myMap=new HashMap<String, ArrayList<String>>();
-  }
-
-  void trainMap(String [] str) {
+    myMap=new HashMap<String, ArrayList<String>>();  }  void trainMap(String [] str) {
     for (int i=0; i<str.length()-1; i++) {
       String currentWord=str[i]; //get first word
       String nextWord=str[i+1];
       if (myMap.get(currentWord==null) {
         myMap.put(currentWord, new ArrayList<String>());
       }
-      myMap.get(currentWord).add(nextWord);
-    }
-  }
-  String generateText(String str) {
+      myMap.get(currentWord).add(nextWord);    }  }  String generateText(String str) {
     String newString="";
     int randomIndex=0;
     int randomIndex2=0;
     if(myMap.containsKey(str)){
-    //  randomIndex=getRandomIndex(
-    }
-    
-    
-    
-    
-  }
+    //  randomIndex=getRandomIndex(    }     
+     }
 
-
-  //generates num grams...so 1 is one word followed by another
-  String generateText2(int num) {
-  }
-
-
-  int getRandomIndex(String s) {
+    String generateText2(int num) {  }  int getRandomIndex(String s) {
     int randomIndex=(int)(Math.random()*myMap.get(s).size());
-    return randomIndex;
-  }
-  void printMap() {
-    println(myMap);
-  }
-  public String toString() {
-    return ""+wordList;
-  }
-}
+    return randomIndex;  }  void printMap() {
+    println(myMap);  }  public String toString() {
+    return ""+wordList;  }}
   
