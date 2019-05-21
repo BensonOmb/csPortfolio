@@ -118,35 +118,53 @@
     
     '''Java
  
-     class OddballParticle implements Particle {
-    double x;
-    double y;
-    double speed;
-    double angle=(Math.PI*2);
-    int random;
-  
-    int clr;
-    OddballParticle(int x, int y) {
-      this.x=x;
-      this.y=y;
-      clr=((int)(Math.random()*245)+10);
+     class MarkovChain implements Markov {
+  List <String> wordList;
+  Map<String, ArrayList<String>> myMap;
+
+  public MarkovChain() {
+    wordList=new ArrayList<String>();
+    myMap=new HashMap<String, ArrayList<String>>();
+  }
+
+  void trainMap(String [] str) {
+    for (int i=0; i<str.length()-1; i++) {
+      String currentWord=str[i]; //get first word
+      String nextWord=str[i+1];
+      if (myMap.get(currentWord==null) {
+        myMap.put(currentWord, new ArrayList<String>());
+      }
+      myMap.get(currentWord).add(nextWord);
     }
-
-
-
-    public void move() {
-      speed=Math.random()*5;
-      angle+=.025;
-
-      x+=Math.cos(angle)*speed;
-      y+=Math.sin(angle)*speed;
-     
+  }
+  String generateText(String str) {
+    String newString="";
+    int randomIndex=0;
+    int randomIndex2=0;
+    if(myMap.containsKey(str)){
+    //  randomIndex=getRandomIndex(
     }
-    public void show() {
-      noStroke();
-      fill(clr,clr,clr);
-      ellipse(width/2,height/2, (int)((.5)*x), (int)((.5)*y)); </i>
-    }
-       }
- 
+    
+    
+    
+    
+  }
+
+
+  //generates num grams...so 1 is one word followed by another
+  String generateText2(int num) {
+  }
+
+
+  int getRandomIndex(String s) {
+    int randomIndex=(int)(Math.random()*myMap.get(s).size());
+    return randomIndex;
+  }
+  void printMap() {
+    println(myMap);
+  }
+  public String toString() {
+    return ""+wordList;
+  }
+}
  
