@@ -21,7 +21,7 @@
 <details><summary><b> Dice </b></summary>
  <p>
   
-  * [here](https://github.com/ACS-2018-2019/Benson.O/blob/master/Screen%20Shot%202019-05-21%20at%2012.46.03%20PM.png)
+  * [here]()
   * <i>I was completely and utterly lost on Dice. I had no idea where to start and I even struggled on the minor code. To me, the major concept code like the scanner class is very difficult to wrap my brain around, but In Dice the smaller code (for loops and such) was 
   a challenge by itself. I employed the help of Dr.R, my classmates and even the internet to figuire out why my dice were so wonky, but it was never fixed.</i>
  </p>
@@ -30,7 +30,7 @@
  <details><summary><b> Chemotaxis </b></summary>
  <p>
   
-  * [here](https://bensonomb.github.io/chemotaxis4/)
+  * [here](https://github.com/ACS-2018-2019/Benson.O/blob/master/Screen%20Shot%202019-05-21%20at%2012.46.03%20PM.png)
   * <i>Chemotaxis was really cool because it had alot of potential to create some fun games. It reminded me of the final project from AP Comp Sci and I wish we had more time to explore the possibilities and really explore what chemotaxis could be. I found the real life application in biology to be cool as well, and I can imagine this code being used for studies.</i>
  </p>
  </details>
