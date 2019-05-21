@@ -38,7 +38,7 @@
 <details><summary><b> Starfield </b></summary>
  <p>
   
-  * [here](https://bensonomb.github.io/starfield5/)
+  * [here](https://github.com/ACS-2018-2019/Benson.O/blob/master/Screen%20Shot%202019-05-21%20at%2012.54.15%20PM.png)
   * <i> I was astonished by what the other people made, and I realized just how much I suck at Computer Science. This is the lab I wish was more relaxed with the due date, because it had alot of potential for really awesome code. After seeing some of the 3D projects I was inspired to try something like that but didn't get a chance. I hope we do something in the future similar to this.</i>
  </p>
  </details>
