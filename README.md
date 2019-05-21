@@ -107,7 +107,7 @@
 
 <details><summary><b> Hurdle! </b></summary>
  <p>
-    <i>I felt crunched by the time periods for this trimester, especially the seven Scanner labs that were due in two weeks. It took me an entire week to do 2 and those were supposed to be easy. I feel like everyone in this clase is naturally gifted or have a passion for Computer Science and I am being left behind. I made up for this by coming in after school alot and working overtime on my code</i>
+    <i>I felt like I did not belong in this clase. I had alot of troubles in thisclass primarily because I have absolutley no interest in Computer Science, and my lack of interest led me to not care about the class as much.Also, this type of class is very strange to me. I can see why we think that a looser class structure would wokr better, but I now know that I prefere the classic class structure of lecturing and quizess. I was also stricken by multiple techological problems that really restricted me in what I could do.</i>
  </p>
  </details>
  
