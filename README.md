@@ -107,13 +107,13 @@
 
 <details><summary><b> Hurdle! </b></summary>
  <p>
-    <i>I felt like I did not belong in this clase. I had alot of troubles in thisclass primarily because I have absolutley no interest in Computer Science, and my lack of interest led me to not care about the class as much.Also, this type of class is very strange to me. I can see why we think that a looser class structure would wokr better, but I now know that I prefere the classic class structure of lecturing and quizess. I was also stricken by multiple techological problems that really restricted me in what I could do.</i>
+    <i>I felt like I did not belong in this clase. I had alot of troubles in this class primarily because I have absolutley no interest in Computer Science, and my lack of interest led me to not care about the class as much. Also, this type of class is very strange to me. I can see why we think that a looser class structure would wokr better, but I now know that I prefere the classic class structure of lecturing and quizess. I was also stricken by multiple techological problems that really restricted me in what I could do.</i>
  </p>
  </details>
  
  <br/><br/>
  
- <i> Markov Chain was very difficult for me, as I could barely understand the concept behind our project. I had to get alot of help from Chris Bartz and Aashish. </i>
+ <i> Markov Chain was very difficult for me, as I could barely understand the concept behind our project. I had to get alot of help from Chris Bartz and Aashish. I think tht this piece of code is one that I am most proud of because I actualy completed a majority of this by myself, adn the rest was given to us.  </i>
     
     '''Java
  
