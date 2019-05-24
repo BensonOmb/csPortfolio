@@ -54,40 +54,16 @@
 <details><summary><b> Hard Code! </b></summary>
     
 
-  <br/><br/>The following code was difficult because I had trouble finding out how to move the ball in this certain way, I got past it by trying alot of different, and mostly random code and finding out what happened. It took a long time but the trail and error method really helped because it not only showed solutions but also got my brain to think in other areas besides the one way I normal think.
+  <br/><br/>The following code was difficult because I found the subject matter of LinkedList to be very abstract and hard to imagine. I think that the entire "node" aspect of the LinkedList to be very alien to me, as I am used to the usual data structures which seem somewhat the same in comparison.
 <p>
 
 
-<i>class OddballParticle implements Particle {
-  double x;
-  double y;
-  double speed;
-  double angle=(Math.PI*2);
-  int random;
-  
-  int clr;
-  OddballParticle(int x, int y) {
-    this.x=x;
-    this.y=y;
-    clr=((int)(Math.random()*245)+10);
+<i>  public static void skipEveryOther(ListNode list)
+  {while(list!=null&&list.getNext()!=null) {
+    list.setNext(list.getNext().getNext());
+    list=list.getNext();
   }
-
-
-
-  public void move() {
-    speed=Math.random()*5;
-    angle+=.025;
-
-    x+=Math.cos(angle)*speed;
-    y+=Math.sin(angle)*speed;
-     
   }
-  public void show() {
-    noStroke();
-    fill(clr,clr,clr);
-    ellipse(width/2,height/2, (int)((.5)*x), (int)((.5)*y)); </i>
-  }
-}
 </p>
 </details>
 
