@@ -19,8 +19,8 @@
   </details>
 <details><summary><b> Innovation </b></summary>
  <p>
-   * [here]()
-   * <i> This was a veru interesting project to me and I thoughtthat my topic was very interesting.
+   * [here](https://docs.google.com/presentation/d/1EG7KycvUXMMP7iokVGnlffy8tbBHrrHfQXn3gyLHafw/edit#slide=id.p)
+   * <i> This was a veru interesting project to me and I thoughtthat my topic was very interesting. </i>
   </p>
   </details>
 <details><summary><b> Dice </b></summary>
