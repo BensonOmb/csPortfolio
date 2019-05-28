@@ -17,7 +17,12 @@
   * <i>The Lightning lab was really cool to look at, but I only figuired out how it worked after I finished, when I had time to think it over. It was fun but I really struggled with the major concepts like connecting different classes. I employed my tactic of using random numbers in my code and seeing what happens, then once something cool comes out I go back and see why that is. It comes up with some pretty funky stuff.</i>
  </p>
   </details>
-  
+<details><summary><b> Innovation </b></summary>
+ <p>
+   * [here]()
+   * <i> This was a veru interesting project to me and I thoughtthat my topic was very interesting.
+  </p>
+  </details>
 <details><summary><b> Dice </b></summary>
  <p>
   
