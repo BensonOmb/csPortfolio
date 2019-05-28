@@ -25,6 +25,15 @@
    * <i> This was a veru interesting project to me and I thoughtthat my topic was very interesting. </i>
   </p>
   </details>
+  
+  <details><summary><b> Final Project </b></summary>
+  <p>
+     *  [here]()
+     *  <i> This final project was a colabaoration with Chris Bartz in hour 7. It is a choose your own adventure story in the setting of the Game of Thrones </i>
+ </p>
+ </details>
+ 
+  
 <details><summary><b> Dice </b></summary>
  <p>
   
