@@ -28,7 +28,7 @@
   
   <details><summary><b> Final Project </b></summary>
   <p>
-     *  [here]()
+     *  [here](https://github.com/bartzc/finalProjectACS)
      *  <i> This final project was a colabaoration with Chris Bartz in hour 7. It is a choose your own adventure story in the setting of the Game of Thrones </i>
  </p>
  </details>
